@@ -1,5 +1,9 @@
 
+/.env
+Body_Performance_Data/.env
 Diabetes_BRFSS_2015/.env
 Global_Steel_Producers/.env
 Sales/.env
 Sales/02_ML-kMeans_Clustering-TensorFlow-PCA-Autoencoders.ipynb
+/.ipynb_checkpoints
+*/.ipynb_checkpoints
