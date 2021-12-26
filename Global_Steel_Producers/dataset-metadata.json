@@ -1,0 +1,23 @@
+{
+  "id": "drubal/top-100-global-steel-producers-20112016",
+  "id_no": 1995,
+  "datasetId": 1995,
+  "datasetSlug": "top-100-global-steel-producers-20112016",
+  "ownerUser": "drubal",
+  "usabilityRating": 0.7058823529411765,
+  "totalViews": 7662,
+  "totalVotes": 7,
+  "totalDownloads": 558,
+  "title": "Top 100 Global Steel Producers (2011-2016)",
+  "subtitle": "Steel is being produced on a global level in places that might surprise you",
+  "description": "### Context\n\nThe production of steel has shifted from a just few primary countries to many countries all over the world. This dataset provides statistics and insight into the locations and volumes of steel production for years 2011-2016 with specific ranking in 2015 and 2016.\n\n### Acknowledgements\n\nThe data source is worldsteel Association. www.worldsteel.org\n\n### Inspiration\n\nSome questions are trends, predictive analytics/forecasting/consolidation possibilities and global supply chain. While the steel industry is 'flat' where steel is produced and shipped globally. There may an opportunity for a new model where steel is increasingly produced locally to save shipping and logistics costs.",
+  "isPrivate": false,
+  "keywords": [],
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
