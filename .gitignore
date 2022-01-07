@@ -1,4 +1,5 @@
 
+*/.env
 /.env
 Body_Performance_Data/.env
 Diabetes_BRFSS_2015/.env
@@ -7,3 +8,4 @@ Sales/.env
 Sales/02_ML-kMeans_Clustering-TensorFlow-PCA-Autoencoders.ipynb
 /.ipynb_checkpoints
 */.ipynb_checkpoints
+Bigmart_Sales_Dataset/.env
