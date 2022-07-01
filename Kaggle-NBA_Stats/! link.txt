@@ -1,0 +1,4 @@
+Source: Kaggle
+Title: NBA Statsu (1947-present)
+Owner: sumitrodatta
+Link: https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=All-Star+Selections.csv
